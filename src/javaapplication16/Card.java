@@ -4,7 +4,7 @@ import p2.*;
 
 public class Card {
 
-
+///////////new code /////////////////////
 
 
 	private int value;
