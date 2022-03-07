@@ -1,6 +1,6 @@
 package javaapplication16;
 
-import p2.*;
+import p2.*;   
 
 public class Card {
 
